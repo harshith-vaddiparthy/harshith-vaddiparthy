@@ -1,10 +1,8 @@
 # Hey, I'm Harshith 👋
 
-**AI Product Engineer & Entrepreneur**
+**AI Product Engineer | Head of Growth at [JustPaid](https://justpaid.io) (Y Combinator W23) | Forbes Technology Council**
 
-Currently **Head of Growth** at [JustPaid](https://justpaid.io) (Y Combinator W23) - building AI for finance.
-
-Founder of **Harshith Ventures** - building fully agentic companies where AI agents do most of the work, and humans focus on what actually matters.
+I build AI-powered products and tinker with agentic systems on the side through Harshith Ventures.
 
 [![Forbes Technology Council](https://img.shields.io/badge/Forbes_Technology_Council-Member-000?style=for-the-badge&logo=forbes&logoColor=white)](https://councils.forbes.com/forbestechcouncil)
 [![Website](https://img.shields.io/badge/harshith.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshith.com)
@@ -27,8 +25,14 @@ Founder of **Harshith Ventures** - building fully agentic companies where AI age
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 🤖 AI Tools
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
@@ -48,10 +52,10 @@ Founder of **Harshith Ventures** - building fully agentic companies where AI age
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I Do
 
-- 🤖 Building and deploying AI agents that handle real work - not demos
-- 📈 Scaling AI-powered products at JustPaid (YC W23)
+- 📈 Scaling AI-powered finance products at [JustPaid](https://justpaid.io) (YC W23)
+- 🤖 Building and experimenting with AI agents in my spare time
 - 🎓 Teaching [Vibe Code](https://harshith.com/vibecode) - 10 days, I'm your personal CTO, we ship a production MVP together
 - ✍️ Writing about AI, agents, and building things at [harshith.com](https://harshith.com)
 
@@ -62,7 +66,7 @@ Founder of **Harshith Ventures** - building fully agentic companies where AI age
 - **ARTIFIN.ai** - Founded and exited an AI-driven financial analysis platform (acquired by Oasis Ventures)
 - **Metaschool** - Led content strategy and global events for a Peak XV (Sequoia) funded Web3 education platform
 - **Netflix - Love, Death & Robots** - Led NFT minting project of 131,690 artworks
-- **BasedAF** - Increased brand visibility by 40% in the Metaverse through strategic campaigns
+- **BasedAF** - Increased brand visibility by 40% in the Metaverse
 - **Ambassadors Solutions** - Increased market share by 30% and company revenue by 20%
 
 ---
@@ -71,9 +75,8 @@ Founder of **Harshith Ventures** - building fully agentic companies where AI age
 
 **19 videos** and **19 podcast episodes** on AI, product building, and entrepreneurship with **370K+ total views**.
 
-Topics: AI agents, prompt engineering, RAG systems, vector databases, no-code development, growth marketing, Web3.
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://harshith.com/media)
+[![Blog](https://img.shields.io/badge/Blog-harshith.com-000?style=flat-square&logo=hashnode&logoColor=white)](https://harshith.com/essays)
 
 ---
 
@@ -81,7 +84,7 @@ Topics: AI agents, prompt engineering, RAG systems, vector databases, no-code de
 
 Start with first principles. Move fast. Build things that solve real problems.
 
-If something isn't 10x better, it's probably not worth doing. I'd rather learn quickly than spend years on something nobody needs.
+If something isn't 10x better, it's probably not worth doing.
 
 ---
 
