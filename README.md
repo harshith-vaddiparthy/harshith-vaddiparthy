@@ -1,91 +1,71 @@
-# Hey, I'm Harshith 👋
+<div align="center">
 
-**AI Product Engineer | Head of Growth at [JustPaid](https://justpaid.io) (Y Combinator W23) | Forbes Technology Council**
+# Harshith Vaddiparthy
 
-I build AI-powered products and tinker with agentic systems on the side through Harshith Ventures.
+### AI Product & Agentic Systems Consultant
 
-[![Forbes Technology Council](https://img.shields.io/badge/Forbes_Technology_Council-Member-000?style=for-the-badge&logo=forbes&logoColor=white)](https://councils.forbes.com/forbestechcouncil)
-[![Website](https://img.shields.io/badge/harshith.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshith.com)
-[![X](https://img.shields.io/badge/@harshith-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshithvaddiparthy)
+**[VP, Platform Engineering & CTO](https://www.kenzai.io/team) at Kenzai Intelligence · [Applied AI Trainer](https://outskill.com/) at Outskill**
 
----
+I help founders and teams turn AI strategy into production-ready products, agentic workflows, and systems they can own.
 
-## 🛠 Tech Stack
+[![Website](https://img.shields.io/badge/harshith.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://harshith.com)
+[![Consulting](https://img.shields.io/badge/Work_with_me-6E1E32?style=for-the-badge&logo=calendly&logoColor=white)](https://harshith.com/consulting)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-vaddiparthy/)
+[![X](https://img.shields.io/badge/@harshith-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshith)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
 
-## 🤖 AI Tools
+## What I do
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+I work at the point where AI strategy has to become real software. That usually means finding the right use case, choosing a practical architecture, shipping the first working system, and helping the team operate it without permanent outside dependency.
 
----
+- **AI product strategy** — use-case selection, roadmaps, architecture, and build-vs-buy decisions
+- **Agentic systems** — AI agents, tool use, RAG, memory, orchestration, evaluation, and human controls
+- **Workflow automation** — production workflows that connect models to business systems and measurable outcomes
+- **AI enablement** — hands-on training for leaders, operators, builders, and enterprise teams
 
-## 📰 Featured In
+## Current work
 
-| Publication | Article |
-|-------------|---------|
-| **Forbes Technology Council** | [Accepted as Member](https://councils.forbes.com/forbestechcouncil) |
-| **AP News** | [JustPaid's Strategic Partnership with Scritch - AI Agents for Veterinary Practices](https://apnews.com/press-release/pr-newswire/artificial-intelligence-85c269bd813076a9a1b69a8c62b7b7c4) |
-| **Yahoo Finance** | [Head of Growth Drives AI Integration for Veterinary Care](https://finance.yahoo.com/news/justpaid-scritch-announce-strategic-partnership-130100707.html) |
-| **MarketWatch** | [Modern B2B Collaboration Powered by AI](https://www.marketwatch.com/press-release/justpaid-and-scritch-announce-strategic-partnership-to-power-veterinary-practices-with-ai-agents-20831663) |
-| **Morningstar** | [Powering Veterinary Practices with AI Agents](https://www.morningstar.com/news/pr-newswire/20250603sf01417/justpaid-and-scritch-announce-strategic-partnership-to-power-veterinary-practices-with-ai-agents) |
-| **CityBiz** | [Q&A - How AI is Becoming the Front Door to Enterprise Software](https://www.citybiz.co/article/717444/qa-with-harshith-vaddiparthy-head-of-growth-at-justpaid/) |
-| **Benzinga** | [Emerging as a Rising AI Thought Leader](https://www.benzinga.com/pressreleases/25/05/ab45652898/harshith-vaddiparthy-emerges-as-a-rising-ai-thought-leader-with-startup-exit-open-source-innovati) |
-| **Barchart** | [Redefining AI-Native Development with Vibe Coding](https://www.barchart.com/story/news/32670486/harshith-vaddiparthy-redefines-ainative-development-with-vibe-coding-and-thought-leadership-across-the-generative-ai-ecosystem) |
-| **News Channel Nebraska** | [Young Tech Entrepreneur Predicted The White-Collar AI Bloodbath](https://northeast.newschannelnebraska.com/story/52819387/young-tech-entrepreneur-predicted-the-white-collar-ai-bloodbath-and-built-the-solution) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://www.kenzai.io/team">
+          <img src="https://www.kenzai.io/brand/kenzai-lockup-primary.svg#gh-light-mode-only" alt="Kenzai Intelligence" height="58">
+          <img src="https://www.kenzai.io/brand/kenzai-lockup-reverse.svg#gh-dark-mode-only" alt="Kenzai Intelligence" height="58">
+        </a>
+      </p>
+      <h3>VP, Platform Engineering & CTO</h3>
+      <p>Leading the development of practical AI products, internal platforms, and production-ready workflows for manufacturing and supply-chain teams.</p>
+      <p><a href="https://www.kenzai.io/team">Meet the Kenzai leadership team →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://outskill.com/">
+          <img src="assets/outskill.svg" alt="Outskill" height="58">
+        </a>
+      </p>
+      <h3>Applied AI Trainer</h3>
+      <p>Teaching professionals and enterprise cohorts to build with AI through live workshops, technical demonstrations, implementation resources, and hands-on mentoring.</p>
+      <p><a href="https://harshith.com/work/outskill">See my work with Outskill →</a></p>
+    </td>
+  </tr>
+</table>
 
----
+## Selected proof
 
-## 🚀 What I Do
+- Founded and exited **ARTIFIN.ai**, an AI-driven financial analysis product
+- Member and contributor at the [Forbes Technology Council](https://www.forbes.com/councils/forbestechcouncil/people/harshithvaddiparthy/)
+- Built and taught practical systems across AI agents, RAG, MCP, workflow automation, voice AI, and generative media
 
-- 📈 Scaling AI-powered finance products at [JustPaid](https://justpaid.io) (YC W23)
-- 🤖 Building and experimenting with AI agents in my spare time
-- 🎓 Teaching [Vibe Code](https://harshith.com/vibecode) - 10 days, I'm your personal CTO, we ship a production MVP together
-- ✍️ Writing about AI, agents, and building things at [harshith.com](https://harshith.com)
+## How I build
 
----
+My bias is toward systems that work under real constraints: clear ownership, measurable outcomes, sensible guardrails, and a codebase or workflow the client can keep using after handoff.
 
-## 💼 Past Work
+`Python` · `TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Azure` · `Docker` · `OpenAI` · `Anthropic` · `n8n` · `Dify` · `MCP`
 
-- **ARTIFIN.ai** - Founded and exited an AI-driven financial analysis platform (acquired by Oasis Ventures)
-- **Metaschool** - Led content strategy and global events for a Peak XV (Sequoia) funded Web3 education platform
-- **Netflix - Love, Death & Robots** - Led NFT minting project of 131,690 artworks
-- **BasedAF** - Increased brand visibility by 40% in the Metaverse
-- **Ambassadors Solutions** - Increased market share by 30% and company revenue by 20%
+## Work with me
 
----
+If you are evaluating an AI product, automating an important workflow, or training a team to build with AI, start with the problem—not a tool list.
 
-## 🎙 Content
-
-**19 videos** and **19 podcast episodes** on AI, product building, and entrepreneurship with **370K+ total views**.
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://harshith.com/media)
-[![Blog](https://img.shields.io/badge/Blog-harshith.com-000?style=flat-square&logo=hashnode&logoColor=white)](https://harshith.com/essays)
-
----
-
-## 💭 Philosophy
-
-Start with first principles. Move fast. Build things that solve real problems.
-
-If something isn't 10x better, it's probably not worth doing.
-
----
-
-📧 **hi@harshith.com**
+**[View consulting services](https://harshith.com/consulting)** · **[See selected work](https://harshith.com/work)** · **[Book a conversation](https://harshith.com/meet)** · **[hi@harshith.com](mailto:hi@harshith.com)**
