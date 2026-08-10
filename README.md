@@ -138,7 +138,9 @@ My bias is toward systems that work under real constraints: clear ownership, mea
 
 **One useful AI note every day** — practical field notes from consulting, training, workflow, and agent builds. No theory dump; just operating calls worth copying.
 
-[![The H Letter](assets/h-letter.svg)](https://www.harshith.com/newsletter)
+<a href="https://www.harshith.com/newsletter">
+  <img src="assets/h-letter.svg" alt="The H Letter" height="64">
+</a>
 
 **[Read and subscribe →](https://www.harshith.com/newsletter)**
 
